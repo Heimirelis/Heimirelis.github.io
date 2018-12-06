@@ -20,7 +20,9 @@ body {
 	margin: 0 auto;
 	margin-top: 2em;
 	width: 65em;
-	background-image: url("bakrunnur.jpg") 
+	background-image: url("bakrunnur.jpg");
+	background-repeat: no-repeat;
+	background-size:cover;
 }
 
 
